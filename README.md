@@ -4,7 +4,7 @@
 
 Este projeto é uma implementação simples de um **Sistema Bancário desenvolvido em Java**, criado com o objetivo de demonstrar conceitos fundamentais da **Programação Orientada a Objetos (POO)**.
 
-O sistema simula operações básicas de contas bancárias, como exibição de informações, depósito, cálculo de rendimento em conta poupança e limite de saque em conta corrente.
+O sistema simula operações básicas de contas bancárias, como exibição de informações, depósito, cálculo de rendimento em conta poupança e limite de saque em conta.
 
 Este projeto é ideal para fins educacionais, especialmente para estudantes que estão aprendendo conceitos como **herança, encapsulamento e sobrescrita de métodos em Java**.
 
